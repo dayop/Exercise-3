@@ -1,0 +1,15 @@
+th{
+    background: blue;
+}
+
+table{
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
